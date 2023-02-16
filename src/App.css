@@ -1,0 +1,38 @@
+
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  outline:none;
+  border:none;
+  text-decoration:none;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+  background: var(--bg);
+  color:#fff;
+}
+
+
+
+/* Media queries */
+
+/* Laptop */
+@media (max-width: 1366px) {
+  html {
+      font-size: 75%;
+  }
+}
+/* Tablet */
+@media (max-width: 768px) {
+  html {
+      font-size: 62.5%;
+  }
+
+}
