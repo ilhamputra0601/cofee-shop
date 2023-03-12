@@ -1,0 +1,28 @@
+[
+    { 
+        "name":"Espresso", 
+        "source":"https://source.unsplash.com/300x300?espresso",
+        "price":"15"
+    },
+    { 
+        "name":"Late",
+        "source":"https://source.unsplash.com/300x300?late",
+        "price":"18"
+    },
+    {   "name":"Americano",
+        "source":"https://source.unsplash.com/300x300?americano", 
+        "price":"20"
+    },
+    {    "name":"Cold Brew", 
+        "source":"https://source.unsplash.com/300x300?coldbrew", 
+        "price":"23"
+    },
+    {   "name":"Gayo Aceh",
+        "source":"https://source.unsplash.com/300x300?gayo",
+        "price":"25"
+    },
+    {   "name":"Java Coffee",
+        "source":"https://source.unsplash.com/300x300?tea",
+        "price":"20"
+    }
+]

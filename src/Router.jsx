@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Main from "./pages/Main";
-const Routing = () => {
+import './App.css'
+const App = () => {
     return ( 
         <BrowserRouter>
         <Routes>
@@ -11,4 +12,4 @@ const Routing = () => {
     </BrowserRouter>
     );
 }
-export default Routing;
+export default App;

@@ -5,7 +5,7 @@ const Card = (menu) => {
         menu.Cards.map((card)=>{
     return <>       
             <div className="menu-card">
-            <img className='menu-card-img' src={card.source} alt={card.name} />
+            <img className="menu-card-img" src={card.source} alt={card.name} />
             <h3 className="menu-card-title">
                 - {card.name} -
             </h3>

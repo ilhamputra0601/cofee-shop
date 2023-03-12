@@ -22,7 +22,7 @@ const Footer = () => {
                 <a href="#contact">Kontak</a>
             </div>
             <div className="credit">
-                <p>Created by <a href="https://github.com/ilhamputra0601">Ilham Ramadhan</a>. | &copy; 2023.</p>
+                <p>Created by <a href="https://github.com/ilhamputra0601" target="blank">Ilham Ramadhan</a>. | &copy; 2023.</p>
             </div>
         </footer>
     );

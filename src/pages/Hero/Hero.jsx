@@ -6,7 +6,7 @@ const Hero = () => {
             <main className="content">
                 <h1>Mari Nikmati Secangkir <span>Kopi</span></h1>
                 <p>Kopi Nikmat Tiadak Bikin Ngantuk</p>
-                <a href="#" className="cta">Beli Sekarang</a>
+                <a href="#" className="cta">Our Product</a>
             </main>
         </section>
     );
